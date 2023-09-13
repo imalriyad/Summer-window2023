@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "age": 34,
+    "position": "Forward",
+    "marketValue": "$100 million",
+    "image": "https://i.ibb.co/rww0Ptb/Lionel-Messi-7.jpg",
+    "country": "Argentina"
+  },
+  {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "age": 36,
+    "position": "Forward",
+    "marketValue": "$90 million",
+    "image": "https://i.ibb.co/VvNMXKR/cristinao.jpg",
+    "country": "Portugal"
+  },
+  {
+    "id": 3,
+    "name": "Neymar Jr.",
+    "age": 29,
+    "position": "Forward",
+    "marketValue": "$80 million",
+    "image": "https://i.ibb.co/QN68wxr/neymi.jpg",
+    "country": "Brazil"
+  },
+  {
+    "id": 4,
+    "name": "Kylian Mbappe",
+    "age": 22,
+    "position": "Forward",
+    "marketValue": "$160 million",
+    "image": "https://i.ibb.co/dBKxggz/mbppe.jpg",
+    "country": "France"
+  },
+  {
+    "id": 5,
+    "name": "Erling Haaland",
+    "age": 21,
+    "position": "Forward",
+    "marketValue": "$120 million",
+    "image": "https://i.ibb.co/FhdgrBx/erling-haaland-169.jpg",
+    "country": "Norway"
+  },
+  {
+    "id": 6,
+    "name": "Kevin De Bruyne",
+    "age": 30,
+    "position": "Midfielder",
+    "marketValue": "$110 million",
+    "image": "https://i.ibb.co/TqDmXVj/derbyna.jpg",
+    "country": "Belgium"
+  },
+  {
+    "id": 7,
+    "name": "Robert Lewandowski",
+    "age": 33,
+    "position": "Forward",
+    "marketValue": "$90 million",
+    "image": "https://i.ibb.co/ZmYTNpW/lewsa.jpg",
+    "country": "Poland"
+  },
+  {
+    "id": 8,
+    "name": "Sergio Ramos",
+    "age": 35,
+    "position": "Defender",
+    "marketValue": "$20 million",
+    "image": "https://i.ibb.co/936g6mf/ramos.jpg",
+    "country": "Spain"
+  },
+  {
+    "id": 9,
+    "name": "Mohamed Salah",
+    "age": 29,
+    "position": "Forward",
+    "marketValue": "$100 million",
+    "image": "https://i.ibb.co/JtgWwp3/starling.jpg",
+    "country": "Egypt"
+  },
+  {
+    "id": 10,
+    "name": "Luka Modric",
+    "age": 35,
+    "position": "Midfielder",
+    "marketValue": "$30 million",
+    "image": "https://i.ibb.co/7Xyw3hc/modrich.jpg",
+    "country": "Croatia"
+  },
+  {
+    "id": 11,
+    "name": "Gareth Bale",
+    "age": 32,
+    "position": "Forward",
+    "marketValue": "$25 million",
+    "image": "https://i.ibb.co/TkDKhhG/bale.webp",
+    "country": "Wales"
+  },
+  {
+    "id": 12,
+    "name": "Harry Kane",
+    "age": 28,
+    "position": "Forward",
+    "marketValue": "$150 million",
+    "image": "https://i.ibb.co/JBS3Gj2/kane.jpg",
+    "country": "England"
+  },
+  {
+    "id": 13,
+    "name": "Antoine Griezmann",
+    "age": 30,
+    "position": "Forward",
+    "marketValue": "$70 million",
+    "image": "https://i.ibb.co/ZmtbcvZ/griezmann.jpg",
+    "country": "France"
+  },
+  {
+    "id": 14,
+    "name": "Joshua Kimmich",
+    "age": 26,
+    "position": "Midfielder",
+    "marketValue": "$100 million",
+    "image": "https://i.ibb.co/gFfVggF/kimmich.jpg",
+    "country": "Germany"
+  },
+  {
+    "id": 15,
+    "name": "Karim Benzema",
+    "age": 33,
+    "position": "Forward",
+    "marketValue": "$60 million",
+    "image": "https://i.ibb.co/fkgK0Rp/banzema.jpg",
+    "country": "France"
+  },
+  {
+    "id": 16,
+    "name": "Casemiro",
+    "age": 29,
+    "position": "Midfielder",
+    "marketValue": "$70 million",
+    "image": "https://i.ibb.co/QKWdYhy/casimiro.jpg",
+    "country": "Brazil"
+  },
+  {
+    "id": 17,
+    "name": "Trent Alexander-Arnold",
+    "age": 22,
+    "position": "Defender",
+    "marketValue": "$90 million",
+    "image": "https://i.ibb.co/98LkHN1/alexander-Arnold.jpg",
+    "country": "England"
+  },
+  {
+    "id": 18,
+    "name": "Bruno Fernandes",
+    "age": 27,
+    "position": "Midfielder",
+    "marketValue": "$80 million",
+    "image": "https://i.ibb.co/cF9WQxB/burno-Farnandez.jpg",
+    "country": "Portugal"
+  },
+  {
+    "id": 19,
+    "name": "Frenkie de Jong",
+    "age": 24,
+    "position": "Midfielder",
+    "marketValue": "$70 million",
+    "image": "https://i.ibb.co/1ZCmH0b/deJong.jpg",
+    "country": "Netherlands"
+  },
+  {
+    "id": 20,
+    "name": "Raheem Sterling",
+    "age": 26,
+    "position": "Forward",
+    "marketValue": "$80 million",
+    "image": "https://i.ibb.co/D5nTgxC/sancho.jpg",
+    "country": "England"
+  },
+  {
+    "id": 21,
+    "name": "Eden Hazard",
+    "age": 30,
+    "position": "Forward",
+    "marketValue": "$50 million",
+    "image": "https://i.ibb.co/HXzFnLW/hazerd.jpg",
+    "country": "Belgium"
+  },
+  {
+    "id": 22,
+    "name": "Romelu Lukaku",
+    "age": 28,
+    "position": "Forward",
+    "marketValue": "$90 million",
+    "image": "https://i.ibb.co/f28d232/lukaku.jpg",
+    "country": "Belgium"
+  },
+  {
+    "id": 23,
+    "name": "Paul Pogba",
+    "age": 28,
+    "position": "Midfielder",
+    "marketValue": "$60 million",
+    "image": "https://i.ibb.co/gm50X84/pogba.jpg",
+    "country": "France"
+  },
+  {
+    "id": 24,
+    "name": "Jadon Sancho",
+    "age": 21,
+    "position": "Forward",
+    "marketValue": "$90 million",
+    "image": "https://i.ibb.co/D5nTgxC/sancho.jpg",
+    "country": "England"
+  },
+  {
+    "id": 25,
+    "name": "Sadio Mane",
+    "age": 29,
+    "position": "Forward",
+    "marketValue": "$70 million",
+    "image": "https://i.ibb.co/RTvfyGj/sadio-mane.jpg",
+    "country": "Senegal"
+  }
+]
